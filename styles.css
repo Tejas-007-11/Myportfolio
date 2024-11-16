@@ -96,7 +96,7 @@ nav .nav-links li a:hover {
     100% { opacity: 1; transform: translateY(0); }
 }
 
-/* About Section */
+
 #about {
     padding: 50px;
     background-color: #34495e;
@@ -228,7 +228,7 @@ footer p {
     font-size: 1rem;
 }
 
-/* Media Queries */
+
 @media (max-width: 768px) {
     .skills-container, .projects-container {
         flex-direction: column;
